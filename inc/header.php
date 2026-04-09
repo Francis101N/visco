@@ -11,7 +11,7 @@
 
             <!-- Desktop Menu -->
             <div class="hidden md:flex space-x-8 items-center font-medium">
-                <a href="./" class="hover:text-viscoYellow transition">Home</a>
+                <a href="home" class="hover:text-viscoYellow transition">Home</a>
                 <a href="about" class="hover:text-viscoYellow transition">About Us</a>
                 <a href="services" class="hover:text-viscoYellow transition">Services</a>
                 <a href="projects" class="hover:text-viscoYellow transition">Projects</a>
@@ -47,7 +47,7 @@
 
     <!-- Menu Links -->
     <div class="flex flex-col space-y-4 px-6 mt-4 text-lg">
-        <a href="./" class="hover:text-viscoYellow transition">Home</a>
+        <a href="home" class="hover:text-viscoYellow transition">Home</a>
         <a href="about" class="hover:text-viscoYellow transition">About Us</a>
         <a href="services" class="hover:text-viscoYellow transition">Services</a>
         <a href="#projects" class="hover:text-viscoYellow transition">Projects</a>

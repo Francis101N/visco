@@ -141,7 +141,18 @@
                     </p>
                 </div>
 
-                <!-- Member 2 -->
+                <div class="team-member bg-white/5 backdrop-blur-md rounded-2xl p-6 text-center shadow-lg hover:scale-105 transition transform">
+                    <div class="mb-4">
+                        <img src="./images/chairwoman.jpeg"
+                            alt="Team Member"
+                            class="w-36 h-36 object-cover rounded-full mx-auto border-2 border-viscoYellow shadow-xl">
+                    </div>
+                    <h3 class="text-xl font-semibold">Iyk- Edwin Ifeoma</h3>
+                    <p class="text-viscoYellow font-medium mb-4">Director, Enterprise & Human Capital Development</p>
+                    <p class="text-gray-300 italic">"Driving excellence through talent, innovation, and operational precision."</p>
+                </div>
+
+                <!-- Member 3 -->
                 <div class="team-member bg-white/5 backdrop-blur-md rounded-2xl p-6 text-center shadow-lg hover:scale-105 transition transform">
                     <img src="./images/reverend.jpeg" class="w-36 h-36 object-cover rounded-full mx-auto border-2 border-viscoYellow shadow-xl mb-4">
                     <h3 class="text-xl font-semibold">Daniel Ubeh</h3>
@@ -151,7 +162,7 @@
                     </p>
                 </div>
 
-                <!-- Member 3 -->
+                <!-- Member 4 -->
                 <div class="team-member bg-white/5 backdrop-blur-md rounded-2xl p-6 text-center shadow-lg hover:scale-105 transition transform">
                     <img src="./images/Benjamin.png" class="w-36 h-36 object-cover rounded-full mx-auto border-2 border-viscoYellow shadow-xl mb-4">
                     <h3 class="text-xl font-semibold">Benjamin Akande</h3>
@@ -161,53 +172,13 @@
                     </p>
                 </div>
 
-                <!-- Member 4 -->
+                <!-- Member 5 -->
                 <div class="team-member bg-white/5 backdrop-blur-md rounded-2xl p-6 text-center shadow-lg hover:scale-105 transition transform">
                     <img src="./images/segun.png" class="w-36 h-36 object-cover rounded-full mx-auto border-2 border-viscoYellow shadow-xl mb-4">
                     <h3 class="text-xl font-semibold">Segun Faniran</h3>
                     <p class="text-viscoYellow font-medium mb-3">Chief Operating Manager</p>
                     <p class="text-gray-300 italic text-sm">
                         "Operations is about consistency. If your systems work without supervision, you’ve built something strong."
-                    </p>
-                </div>
-
-                <!-- Member 5 -->
-                <div class="team-member bg-white/5 backdrop-blur-md rounded-2xl p-6 text-center shadow-lg hover:scale-105 transition transform">
-                    <img src="https://via.placeholder.com/200" class="w-36 h-36 object-cover rounded-full mx-auto border-2 border-viscoYellow shadow-xl mb-4">
-                    <h3 class="text-xl font-semibold">Michael Lee</h3>
-                    <p class="text-viscoYellow font-medium mb-3">Procurement Manager</p>
-                    <p class="text-gray-300 italic text-sm">
-                        "The right materials at the right time can save more than money, they save the entire project timeline."
-                    </p>
-                </div>
-
-                <!-- Member 6 -->
-                <div class="team-member bg-white/5 backdrop-blur-md rounded-2xl p-6 text-center shadow-lg hover:scale-105 transition transform">
-                    <img src="https://via.placeholder.com/200" class="w-36 h-36 object-cover rounded-full mx-auto border-2 border-viscoYellow shadow-xl mb-4">
-                    <h3 class="text-xl font-semibold">Sarah Williams</h3>
-                    <p class="text-viscoYellow font-medium mb-3">HSE Manager</p>
-                    <p class="text-gray-300 italic text-sm">
-                        "Safety is not a checklist, it’s a culture. When people believe in it, incidents reduce naturally."
-                    </p>
-                </div>
-
-                <!-- Member 7 -->
-                <div class="team-member bg-white/5 backdrop-blur-md rounded-2xl p-6 text-center shadow-lg hover:scale-105 transition transform">
-                    <img src="https://via.placeholder.com/200" class="w-36 h-36 object-cover rounded-full mx-auto border-2 border-viscoYellow shadow-xl mb-4">
-                    <h3 class="text-xl font-semibold">David Wilson</h3>
-                    <p class="text-viscoYellow font-medium mb-3">Technical Director</p>
-                    <p class="text-gray-300 italic text-sm">
-                        "Technical decisions should always balance innovation with reliability."
-                    </p>
-                </div>
-
-                <!-- Member 8 -->
-                <div class="team-member bg-white/5 backdrop-blur-md rounded-2xl p-6 text-center shadow-lg hover:scale-105 transition transform">
-                    <img src="https://via.placeholder.com/200" class="w-36 h-36 object-cover rounded-full mx-auto border-2 border-viscoYellow shadow-xl mb-4">
-                    <h3 class="text-xl font-semibold">Linda Adams</h3>
-                    <p class="text-viscoYellow font-medium mb-3">HR Manager</p>
-                    <p class="text-gray-300 italic text-sm">
-                        "People perform best when they feel valued and part of something bigger."
                     </p>
                 </div>
 

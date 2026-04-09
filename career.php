@@ -117,6 +117,64 @@
 
     </section>
 
+    <section class="career-content py-20">
+        <div class="container mx-auto px-4 lg:flex lg:gap-12">
+            <!-- Job Listings (Left) -->
+            <div class="lg:w-2/3 w-full order-2 lg:order-1">
+                <div class="mb-8">
+                    <h2 class="text-3xl md:text-4xl font-bold text-viscoBlue mb-3">Current Openings</h2>
+                    <h3 class="text-white">We're always looking for talented individuals to join our dynamic team and help shape the future of engineering.</h3>
+                </div>
+
+                <!-- No Openings Card -->
+                <div class="bg-gray-800 text-gray-200 rounded-xl p-8 flex flex-col items-center justify-center border-l-4 border-viscoYellow shadow-lg animate-fadeIn">
+                    <i class="fas fa-info-circle text-viscoYellow text-3xl mb-4"></i>
+                    <h4 class="text-xl md:text-2xl font-semibold mb-2 text-center">No Openings Available at the Moment</h4>
+                    <p class="text-center text-gray-300 max-w-md">We’re currently reviewing our team requirements. Please check back later for new career opportunities and join our talented engineering team.</p>
+                </div>
+            </div><br><br>
+
+            <!-- Sidebar (Right) -->
+            <div class="lg:w-1/3 w-full order-1 lg:order-2 mb-10 lg:mb-0">
+                <div class="sticky top-0 space-y-6">
+                    <!-- Why Work With Us -->
+                    <div class="bg-white p-6 rounded-xl shadow-md">
+                        <h3 class="text-xl font-semibold text-viscoBlue mb-3">Why Work With Us</h3>
+                        <ul class="space-y-2 text-gray-600">
+                            <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Competitive Compensation</li>
+                            <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Comprehensive Health Benefits</li>
+                            <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Professional Development Programs</li>
+                            <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Innovative Work Environment</li>
+                            <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Global Project Opportunities</li>
+                            <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Cutting-Edge Technology Access</li>
+                        </ul>
+                    </div>
+
+                    <!-- Contact Widget -->
+                    <div class="bg-white p-6 rounded-xl shadow-md">
+                        <h3 class="text-xl font-semibold text-viscoBlue mb-3">How to Apply</h3>
+                        <p class="text-gray-600 mb-3">Ready to join our team? Send your CV and application to:</p>
+                        <ul class="space-y-2 text-gray-600">
+                            <li class="flex items-start"><i class="fas fa-paper-plane text-viscoYellow mr-2 mt-1"></i> Email: <strong>hr@viscosupport.com</strong></li>
+                            <li class="flex items-start"><i class="fas fa-phone text-viscoYellow mr-2 mt-1"></i> HR Department: (01) 453 7012</li>
+                        </ul>
+
+                        <!-- Application Tips -->
+                        <div class="mt-4">
+                            <h4 class="text-viscoBlue font-semibold mb-2">Application Tips:</h4>
+                            <ul class="space-y-2 text-gray-600">
+                                <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Include the job title in the email subject</li>
+                                <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Attach a detailed CV/Resume</li>
+                                <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Include a brief cover letter</li>
+                                <li class="flex items-start"><i class="fas fa-check text-viscoYellow mr-2 mt-1"></i> Provide contact references</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <?php include('inc/footer.php'); ?>
 
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>

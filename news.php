@@ -113,42 +113,145 @@
                 Stay up-to-date with the latest industry news, expert analysis, and updates from Visco Support Services. Discover insights that drive innovation and informed decision-making.
             </p>
 
-            <!-- CTA (Premium Touch) -->
-            <div class="mt-8 flex justify-center gap-4 flex-wrap">
-
-                <a href="./news"
-                    class="px-6 py-3 bg-viscoYellow text-viscoBlue font-semibold rounded-lg shadow-lg hover:scale-105 transition">
-                    Read News
-                </a>
-
-                <a href="./insights"
-                    class="px-6 py-3 border border-viscoYellow text-viscoYellow rounded-lg hover:bg-viscoYellow hover:text-viscoBlue transition">
-                    Explore Insights
-                </a>
-
-            </div>
-
         </div>
 
     </section>
 
-    <!-- News & Insights Section -->
-    <section class="news-section alternate bg-[#0f1123] py-16">
-        <div class="auto-container">
+    <section class="news-section py-20 bg-[#0b122e] text-white">
+        <div class="max-w-7xl mx-auto px-6">
 
-            <!-- Section Title -->
-            <div class="row mb-10">
-                <div class="col-12 text-center">
-                    <h2 class="section-title text-white text-4xl md:text-5xl font-bold">Latest <span class="text-viscoYellow">News & Insights</span></h2>
-                    <p class="mt-3 text-gray-300 text-lg max-w-2xl mx-auto">
-                        Stay informed with the latest updates, expert analyses, and stories from Visco Support Services.
-                    </p>
+            <!-- Articles Grid -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
+
+                <div class="blog-card bg-white/5 backdrop-blur-md rounded-2xl overflow-hidden shadow-lg hover:scale-105 transition transform flex flex-col h-full">
+                    <div class="relative">
+                        <img src="images/happy-easter2.jpeg"
+                            alt="Sea Clearing: Removing Dirties and Oil"
+                            class="w-full h-64 object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-black/25"></div>
+                    </div>
+                    <div class="p-6 flex flex-col flex-1">
+                        <div class="flex justify-between text-sm text-gray-300 mb-2">
+                            <span><i class="fas fa-user-circle mr-1 text-viscoYellow"></i> Admin</span>
+                            <span><i class="fas fa-calendar-alt mr-1 text-viscoYellow"></i> 05 Apr 2026</span>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-2 hover:text-viscoYellow transition">
+                            Happy Easter Celebration : Viscosupport
+                        </h3>
+                        <p class="text-gray-300 mb-4 flex-1">
+                            Visco Support extends warm Easter greetings, celebrating a season of renewal, hope, and new beginnings. We appreciate the continued trust of our clients and partners as we remain committed to delivering excellence in all our services.
+                        </p>
+                        <a href="#"
+                            class="inline-block w-full text-center bg-viscoYellow text-viscoBlue font-semibold py-3 rounded-lg hover:scale-105 transition transform shadow mt-auto">
+                            READ MORE
+                        </a>
+                    </div>
                 </div>
+
+                <div class="blog-card bg-white/5 backdrop-blur-md rounded-2xl overflow-hidden shadow-lg hover:scale-105 transition transform flex flex-col h-full">
+                    <div class="relative">
+                        <img src="images/visco-anniversary.jpeg"
+                            alt="Sea Clearing: Removing Dirties and Oil"
+                            class="w-full h-64 object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-black/25"></div>
+                    </div>
+                    <div class="p-6 flex flex-col flex-1">
+                        <div class="flex justify-between text-sm text-gray-300 mb-2">
+                            <span><i class="fas fa-user-circle mr-1 text-viscoYellow"></i> Admin</span>
+                            <span><i class="fas fa-calendar-alt mr-1 text-viscoYellow"></i> 25 Mar 2026</span>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-2 hover:text-viscoYellow transition">
+                            Celebrating 25 Years of Excellence : Viscosupport
+                        </h3>
+                        <p class="text-gray-300 mb-4 flex-1">
+                            Visco Support proudly marks its 25th anniversary, celebrating a legacy of innovation, reliability, and outstanding service delivery. We thank our clients, partners, and team members for being part of this remarkable journey.
+                        </p>
+                        <a href="#"
+                            class="inline-block w-full text-center bg-viscoYellow text-viscoBlue font-semibold py-3 rounded-lg hover:scale-105 transition transform shadow mt-auto">
+                            READ MORE
+                        </a>
+                    </div>
+                </div>
+
+                <div class="blog-card bg-white/5 backdrop-blur-md rounded-2xl overflow-hidden shadow-lg hover:scale-105 transition transform flex flex-col h-full">
+                    <div class="relative">
+                        <img src="https://viscosupport.com/upload/news_images/1747549237_H6RkyXIMSj.png"
+                            alt="Sea Clearing: Removing Dirties and Oil"
+                            class="w-full h-64 object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-black/25"></div>
+                    </div>
+                    <div class="p-6 flex flex-col flex-1">
+                        <div class="flex justify-between text-sm text-gray-300 mb-2">
+                            <span><i class="fas fa-user-circle mr-1 text-viscoYellow"></i> Admin</span>
+                            <span><i class="fas fa-calendar-alt mr-1 text-viscoYellow"></i> 18 May 2025</span>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-2 hover:text-viscoYellow transition">
+                            Sea Clearing: Removing Dirties and Oil
+                        </h3>
+                        <p class="text-gray-300 mb-4 flex-1">
+                            Sea clearing involves the removal of pollutants such as oil spills, plastic waste, and other debris...
+                        </p>
+                        <a href="https://viscosupport.com/news/sea-clearing-removing-dirties-and-oil"
+                            class="inline-block w-full text-center bg-viscoYellow text-viscoBlue font-semibold py-3 rounded-lg hover:scale-105 transition transform shadow mt-auto">
+                            READ MORE
+                        </a>
+                    </div>
+                </div>
+
+                <div class="blog-card bg-white/5 backdrop-blur-md rounded-2xl overflow-hidden shadow-lg hover:scale-105 transition transform flex flex-col h-full">
+                    <div class="relative">
+                        <img src="https://viscosupport.com/upload/news_images/1747547314_DYOdp1g6VQ.jpeg"
+                            alt="Fabrication Excellence: Structural Modules Delivered to Offshore Client"
+                            class="w-full h-64 object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-black/25"></div>
+                    </div>
+                    <div class="p-6 flex flex-col flex-1">
+                        <div class="flex justify-between text-sm text-gray-300 mb-2">
+                            <span><i class="fas fa-user-circle mr-1 text-viscoYellow"></i> Admin</span>
+                            <span><i class="fas fa-calendar-alt mr-1 text-viscoYellow"></i> 16 May 2025</span>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-2 hover:text-viscoYellow transition">
+                            Fabrication Excellence: Structural Modules Delivered to Offshore Client
+                        </h3>
+                        <p class="text-gray-300 mb-4 flex-1">
+                            Our fabrication yard team has delivered multiple steel structural modules, fabricated to spec and in...
+                        </p>
+                        <a href="https://viscosupport.com/news/fabrication-excellence-structural-modules-delivered-to-offshore-client"
+                            class="inline-block w-full text-center bg-viscoYellow text-viscoBlue font-semibold py-3 rounded-lg hover:scale-105 transition transform shadow mt-auto">
+                            READ MORE
+                        </a>
+                    </div>
+                </div>
+
+                <div class="blog-card bg-white/5 backdrop-blur-md rounded-2xl overflow-hidden shadow-lg hover:scale-105 transition transform flex flex-col h-full">
+                    <div class="relative">
+                        <img src="https://viscosupport.com/upload/news_images/1747548099_CFbpi1fVnG.png"
+                            alt="Precision at Sea: Successful Spool Installation for Offshore Flowline"
+                            class="w-full h-64 object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-black/25"></div>
+                    </div>
+                    <div class="p-6 flex flex-col flex-1">
+                        <div class="flex justify-between text-sm text-gray-300 mb-2">
+                            <span><i class="fas fa-user-circle mr-1 text-viscoYellow"></i> Admin</span>
+                            <span><i class="fas fa-calendar-alt mr-1 text-viscoYellow"></i> 16 May 2025</span>
+                        </div>
+                        <h3 class="text-xl font-semibold mb-2 hover:text-viscoYellow transition">
+                            Precision at Sea: Successful Spool Installation for Offshore Flowline
+                        </h3>
+                        <p class="text-gray-300 mb-4 flex-1">
+                            Visco Support recently completed a high-precision spool installation as part of an ongoing offshore...
+                        </p>
+                        <a href="https://viscosupport.com/news/precision-at-sea-successful-spool-installation-for-offshore-flowline"
+                            class="inline-block w-full text-center bg-viscoYellow text-viscoBlue font-semibold py-3 rounded-lg hover:scale-105 transition transform shadow mt-auto">
+                            READ MORE
+                        </a>
+                    </div>
+                </div>
+
             </div>
-            
+
         </div>
     </section>
-
 
     <!-- Clients Section -->
     <?php include('inc/clients.php'); ?>
